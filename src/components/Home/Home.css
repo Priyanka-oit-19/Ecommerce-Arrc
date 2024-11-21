@@ -1,0 +1,47 @@
+#shopping {
+    /* display: flex;
+    justify-content: end; */
+}
+
+#shopping>img {}
+
+.home1 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+}
+
+
+.leftBox {
+    margin-left: 8rem;
+    font-size: large;
+    margin-top: 100px;
+    
+}
+
+.leftBox>p {
+    font-weight: bold;
+}
+.leftBox>h1 {
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.products {
+    display: flex;
+    gap: 2rem;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.product>img {
+    width: 190px;
+    height: 190px;
+    padding: 2px;
+    border-radius: 50%;
+}
