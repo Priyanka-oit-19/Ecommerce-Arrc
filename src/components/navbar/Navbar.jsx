@@ -10,7 +10,7 @@ const Navbar = () => {
                         <h4>Contact & Support: 00 000 000 000</h4>
                     </div>
 
-                    <div className='buttons'>
+                    <div className='buttons1'>
                         <button class="vender-btn">vender login</button>
                         <button class="vender-btn">Rider login</button>
                     </div>

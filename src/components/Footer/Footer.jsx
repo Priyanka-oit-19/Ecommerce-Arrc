@@ -98,7 +98,7 @@ const Footer = () => {
 
 
       <div className="footer-bottom">
-        <p>&copy; {new Date().getFullYear()} COPYRIGHT 2024. All Rights Reserved By GeniusOcean</p>
+        <p>&copy; {new Date().getFullYear()} COPYRIGHT 2024. All Rights Reserved By Arrc Technology</p>
       </div>
     </footer>
   );
